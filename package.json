@@ -1,5 +1,5 @@
 {
-  "name": "fastify-sequelize",
+  "name": "fastify-sequelize2",
   "version": "1.0.5",
   "description": "Fastity plugin work with Sequelize (adapter for NodeJS -> Sqlite, Mysql, Mssql, Posgres)",
   "main": "index.js",

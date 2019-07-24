@@ -1,15 +1,15 @@
-# fastify-sequelize
+# fastify-sequelize2
 Fastity plugin work with Sequelize (adapter for NodeJS -> Sqlite, Mysql, Mssql, Posgres)
 
 ## install
 ```bash
-npm install @huangang/fastify-sequelize
+npm install fastify-sequelize2
 ```
 
 ## Usage
 ```javascript
 const fastify = require('fastify')()
-const fsequelize = require('fastify-sequelize')
+const fsequelize = require('fastify-sequelize2')
 
 const sequelizeConfig = {
     instance: 'sequelize', // the name of fastify plugin instance.
