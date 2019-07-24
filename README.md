@@ -3,7 +3,7 @@ Fastity plugin work with Sequelize (adapter for NodeJS -> Sqlite, Mysql, Mssql, 
 
 ## install
 ```bash
-npm install fastify-sequelize
+npm install @huangang/fastify-sequelize
 ```
 
 ## Usage
